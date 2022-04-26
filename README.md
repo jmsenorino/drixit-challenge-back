@@ -15,7 +15,7 @@ Used to encrypt the passwords so I would not save it raw in the DB
 
 ### Dotenv
 
-Used to have a .env file in witch i could protect security-related data.\
+Used in order to have a .env file in witch i could protect security-related data.\
 Just for the Challenge, I decided to include the .env in the repository so you could see that too
 
 ### Express & Cors
