@@ -1,0 +1,13 @@
+POST http://localhost:3001/api/users
+Content-Type: application/json
+
+{
+  "id": "it-drixit-1",
+	"avatar": "https://toppng.com/uploads/preview/roger-berry-avatar-placeholder-11562991561rbrfzlng6h.png",
+	"email": "it@drixit.com",
+	"password": "some-password",
+	"name": "IT",
+	"surname": "Drixit",
+	"age": 25,
+	"role": "admin"
+}
