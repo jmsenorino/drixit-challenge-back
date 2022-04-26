@@ -15,12 +15,12 @@ Used to encrypt the passwords so I would not save it raw in the DB
 
 ### Dotenv
 
-Used in order to have a .env file in witch i could protect security-related data.\
+Used in order to have a .env file in witch i can protect security-related data.\
 Just for the Challenge, I decided to include the .env in the repository so you could see that too
 
 ### Express & Cors
 
-Framework form my server-side logic
+Framework for my server-side logic
 
 ### Jsonwebtoken
 
@@ -32,4 +32,4 @@ Used for object modeling and connection to MongoDB
 
 ### Rest
 
-I used to test the http request. I decided to not include it on the .gitignore and DevDependencies so you can see that too.
+I use it to test the http request. I decided not include it on the .gitignore and DevDependencies so you can see that too.
