@@ -7,6 +7,8 @@ Thank you so much for the patience and all the help!
 `npm install` will install all dependencies.\
 `npm start` will run on port 3001. (Should log "Database Connected")
 
+Check out the [Front-End](https://github.com/jmsenorino/drixit-challenge-front) as well!
+
 ## Implemented Libraries:
 
 ### Bcryptjs
