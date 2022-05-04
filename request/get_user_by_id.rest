@@ -1,0 +1,6 @@
+POST http://localhost:3001/api/getUser
+Content-Type: application/json
+
+{
+  "id": "it-drixit-1"
+}
